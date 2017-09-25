@@ -154,6 +154,7 @@ p {
 
 #carousel-slider {
   position: relative;
+  width: 100%;
 }
 
 #carousel-slider .carousel-indicators {
@@ -494,18 +495,6 @@ a.accordion-toggle  i{
 	margin-bottom:40px;
 }
 
-/* --- Map --- */
-.map{
-	position:relative;
-	padding-top:50px;
-	margin-top:50px;
-
-}
-/* google map */
-#google-map{
-    position:relative;
-    height: 400px;
-}
 
 .contact-page{
   padding-top: 80px;
